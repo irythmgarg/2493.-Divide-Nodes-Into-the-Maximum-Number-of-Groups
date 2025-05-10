@@ -15,7 +15,7 @@ This README file will give potential users or contributors a complete understand
 
 This repository contains a C++ solution to the problem of determining if a graph is bipartite and calculating the maximum number of levels (or "magnificent sets") in a given graph based on certain conditions.
 
-## Problem Overview
+## Problem Overview 🤔
 
 Given a graph represented by `n` nodes and a list of edges, the goal is to:
 
